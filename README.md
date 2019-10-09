@@ -1,1 +1,1 @@
-# bci_api_test
+# bic_api
